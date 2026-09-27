@@ -98,7 +98,7 @@ The application is deployed on **Render** and uses **MongoDB Atlas** as the clou
 
 The application is hosted on **Render** and the database is hosted on **MongoDB Atlas**.
 
-**Live Project:** Add your Render URL here
+**Live Project:** URL https://apnacollege-majorproject-airbnb.onrender.com
 
 ## 🎯 Project Purpose
 
